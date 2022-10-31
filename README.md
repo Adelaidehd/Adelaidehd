@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dragonflower
 - 👀 I’m interested in Python and anything python
 - 🌱 I’m currently working as an IT support specialist
-- 💞️ I’m looking to collaborate on open source project and contribute with the little skills i have in python.
+- 💞️ I’m looking to collaborate on open source projects and contribute with the little skills i have in python.
 
 
 <!---
